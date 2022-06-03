@@ -37,6 +37,7 @@
             this.btnR2C3 = new System.Windows.Forms.Button();
             this.btnR3C2 = new System.Windows.Forms.Button();
             this.btnR3C3 = new System.Windows.Forms.Button();
+            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.SuspendLayout();
             // 
             // btnR1C1
@@ -133,7 +134,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(503, 451);
+            this.ClientSize = new System.Drawing.Size(262, 263);
             this.Controls.Add(this.btnR3C3);
             this.Controls.Add(this.btnR3C2);
             this.Controls.Add(this.btnR2C3);
@@ -160,5 +161,6 @@
         private Button btnR2C3;
         private Button btnR3C2;
         private Button btnR3C3;
+        private System.ComponentModel.BackgroundWorker backgroundWorker1;
     }
 }
