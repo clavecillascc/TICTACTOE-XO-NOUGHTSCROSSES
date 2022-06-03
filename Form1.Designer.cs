@@ -37,7 +37,6 @@
             this.btnR2C3 = new System.Windows.Forms.Button();
             this.btnR3C2 = new System.Windows.Forms.Button();
             this.btnR3C3 = new System.Windows.Forms.Button();
-            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.SuspendLayout();
             // 
             // btnR1C1
@@ -96,7 +95,6 @@
             this.btnR2C2.Name = "btnR2C2";
             this.btnR2C2.Size = new System.Drawing.Size(75, 75);
             this.btnR2C2.TabIndex = 5;
-            this.btnR2C2.Text = "NOUGHTS";
             this.btnR2C2.UseVisualStyleBackColor = true;
             this.btnR2C2.Click += new System.EventHandler(this.btnR2C2_Click);
             // 
@@ -106,7 +104,6 @@
             this.btnR2C3.Name = "btnR2C3";
             this.btnR2C3.Size = new System.Drawing.Size(75, 75);
             this.btnR2C3.TabIndex = 6;
-            this.btnR2C3.Text = "O";
             this.btnR2C3.UseVisualStyleBackColor = true;
             this.btnR2C3.Click += new System.EventHandler(this.btnR2C3_Click);
             // 
@@ -116,7 +113,6 @@
             this.btnR3C2.Name = "btnR3C2";
             this.btnR3C2.Size = new System.Drawing.Size(75, 75);
             this.btnR3C2.TabIndex = 7;
-            this.btnR3C2.Text = "X";
             this.btnR3C2.UseVisualStyleBackColor = true;
             this.btnR3C2.Click += new System.EventHandler(this.btnR3C2_Click);
             // 
@@ -126,7 +122,6 @@
             this.btnR3C3.Name = "btnR3C3";
             this.btnR3C3.Size = new System.Drawing.Size(75, 75);
             this.btnR3C3.TabIndex = 8;
-            this.btnR3C3.Text = "CROSSES";
             this.btnR3C3.UseVisualStyleBackColor = true;
             this.btnR3C3.Click += new System.EventHandler(this.btnR3C3_Click);
             // 
@@ -134,7 +129,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(262, 263);
+            this.ClientSize = new System.Drawing.Size(264, 273);
             this.Controls.Add(this.btnR3C3);
             this.Controls.Add(this.btnR3C2);
             this.Controls.Add(this.btnR2C3);
@@ -161,6 +156,5 @@
         private Button btnR2C3;
         private Button btnR3C2;
         private Button btnR3C3;
-        private System.ComponentModel.BackgroundWorker backgroundWorker1;
     }
 }
