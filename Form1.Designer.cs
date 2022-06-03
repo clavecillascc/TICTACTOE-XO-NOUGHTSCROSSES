@@ -47,6 +47,7 @@
             this.btnR1C1.TabIndex = 0;
             this.btnR1C1.Text = "TIC";
             this.btnR1C1.UseVisualStyleBackColor = true;
+            this.btnR1C1.Click += new System.EventHandler(this.btnR1C1_Click);
             // 
             // btnR1C2
             // 
@@ -124,7 +125,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(478, 396);
+            this.ClientSize = new System.Drawing.Size(503, 451);
             this.Controls.Add(this.btnR3C3);
             this.Controls.Add(this.btnR3C2);
             this.Controls.Add(this.btnR2C3);
