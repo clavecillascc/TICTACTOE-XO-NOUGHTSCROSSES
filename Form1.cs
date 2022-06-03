@@ -248,6 +248,34 @@ namespace TIC_TAC_TOE___A2___Clavecillas
                     MessageBox.Show("Player O Wins!");
                 }
             }
+            //DIAGONAL
+            else if ((btnR1C1.Text == btnR2C2.Text) && (btnR2C2.Text == btnR3C3.Text))
+            {
+                click = !click;
+
+                if (click)
+                {
+                    MessageBox.Show("Player X Wins!");
+                }
+                else
+                {
+                    MessageBox.Show("Player O Wins!");
+                }
+            }
+            //DIAGONAL
+            else if ((btnR1C3.Text == btnR2C2.Text) && (btnR2C2.Text == btnR3C1.Text))
+            {
+                click = !click;
+
+                if (click)
+                {
+                    MessageBox.Show("Player X Wins!");
+                }
+                else
+                {
+                    MessageBox.Show("Player O Wins!");
+                }
+            }
         }
     }
 }
