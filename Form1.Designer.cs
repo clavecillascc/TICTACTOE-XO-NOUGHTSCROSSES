@@ -28,24 +28,46 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.testForGitHub = new System.Windows.Forms.Button();
+            this.btnR1C1 = new System.Windows.Forms.Button();
+            this.btnR1C2 = new System.Windows.Forms.Button();
+            this.btnR1C3 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // testForGitHub
+            // btnR1C1
             // 
-            this.testForGitHub.Location = new System.Drawing.Point(16, 14);
-            this.testForGitHub.Name = "testForGitHub";
-            this.testForGitHub.Size = new System.Drawing.Size(127, 82);
-            this.testForGitHub.TabIndex = 0;
-            this.testForGitHub.Text = "Test For Github";
-            this.testForGitHub.UseVisualStyleBackColor = true;
+            this.btnR1C1.Location = new System.Drawing.Point(12, 12);
+            this.btnR1C1.Name = "btnR1C1";
+            this.btnR1C1.Size = new System.Drawing.Size(75, 75);
+            this.btnR1C1.TabIndex = 0;
+            this.btnR1C1.Text = "TIC";
+            this.btnR1C1.UseVisualStyleBackColor = true;
+            // 
+            // btnR1C2
+            // 
+            this.btnR1C2.Location = new System.Drawing.Point(93, 12);
+            this.btnR1C2.Name = "btnR1C2";
+            this.btnR1C2.Size = new System.Drawing.Size(75, 75);
+            this.btnR1C2.TabIndex = 1;
+            this.btnR1C2.Text = "TAC";
+            this.btnR1C2.UseVisualStyleBackColor = true;
+            // 
+            // btnR1C3
+            // 
+            this.btnR1C3.Location = new System.Drawing.Point(174, 12);
+            this.btnR1C3.Name = "btnR1C3";
+            this.btnR1C3.Size = new System.Drawing.Size(75, 75);
+            this.btnR1C3.TabIndex = 2;
+            this.btnR1C3.Text = "TOE";
+            this.btnR1C3.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.testForGitHub);
+            this.Controls.Add(this.btnR1C3);
+            this.Controls.Add(this.btnR1C2);
+            this.Controls.Add(this.btnR1C1);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -54,6 +76,8 @@
 
         #endregion
 
-        private Button testForGitHub;
+        private Button btnR1C1;
+        private Button btnR1C2;
+        private Button btnR1C3;
     }
 }
