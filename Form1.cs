@@ -82,5 +82,65 @@ namespace TIC_TAC_TOE___A2___Clavecillas
             }
             btnR2C2.Enabled = false;
         }
+
+        private void btnR2C3_Click(object sender, EventArgs e)
+        {
+            if (click)
+            {
+                btnR2C3.Text = "X";
+                click = !click;
+            }
+            else
+            {
+                btnR2C3.Text = "O";
+                click = !click;
+            }
+            btnR2C3.Enabled = false;
+        }
+
+        private void btnR3C1_Click(object sender, EventArgs e)
+        {
+            if (click)
+            {
+                btnR3C1.Text = "X";
+                click = !click;
+            }
+            else
+            {
+                btnR3C1.Text = "O";
+                click = !click;
+            }
+            btnR3C1.Enabled = false;
+        }
+
+        private void btnR3C2_Click(object sender, EventArgs e)
+        {
+            if (click)
+            {
+                btnR3C2.Text = "X";
+                click = !click;
+            }
+            else
+            {
+                btnR3C2.Text = "O";
+                click = !click;
+            }
+            btnR3C2.Enabled = false;
+        }
+
+        private void btnR3C3_Click(object sender, EventArgs e)
+        {
+            if (click)
+            {
+                btnR3C3.Text = "X";
+                click = !click;
+            }
+            else
+            {
+                btnR3C3.Text = "O";
+                click = !click;
+            }
+            btnR3C3.Enabled = false;
+        }
     }
 }

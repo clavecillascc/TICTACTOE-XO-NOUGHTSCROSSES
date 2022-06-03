@@ -87,6 +87,7 @@
             this.btnR3C1.TabIndex = 4;
             this.btnR3C1.Text = "TOE";
             this.btnR3C1.UseVisualStyleBackColor = true;
+            this.btnR3C1.Click += new System.EventHandler(this.btnR3C1_Click);
             // 
             // btnR2C2
             // 
@@ -106,6 +107,7 @@
             this.btnR2C3.TabIndex = 6;
             this.btnR2C3.Text = "O";
             this.btnR2C3.UseVisualStyleBackColor = true;
+            this.btnR2C3.Click += new System.EventHandler(this.btnR2C3_Click);
             // 
             // btnR3C2
             // 
@@ -115,6 +117,7 @@
             this.btnR3C2.TabIndex = 7;
             this.btnR3C2.Text = "X";
             this.btnR3C2.UseVisualStyleBackColor = true;
+            this.btnR3C2.Click += new System.EventHandler(this.btnR3C2_Click);
             // 
             // btnR3C3
             // 
@@ -124,6 +127,7 @@
             this.btnR3C3.TabIndex = 8;
             this.btnR3C3.Text = "CROSSES";
             this.btnR3C3.UseVisualStyleBackColor = true;
+            this.btnR3C3.Click += new System.EventHandler(this.btnR3C3_Click);
             // 
             // Form1
             // 
