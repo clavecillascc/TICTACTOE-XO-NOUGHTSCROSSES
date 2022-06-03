@@ -57,6 +57,7 @@
             this.btnR1C2.TabIndex = 1;
             this.btnR1C2.Text = "TAC";
             this.btnR1C2.UseVisualStyleBackColor = true;
+            this.btnR1C2.Click += new System.EventHandler(this.btnR1C2_Click);
             // 
             // btnR1C3
             // 
@@ -66,6 +67,7 @@
             this.btnR1C3.TabIndex = 2;
             this.btnR1C3.Text = "TOE";
             this.btnR1C3.UseVisualStyleBackColor = true;
+            this.btnR1C3.Click += new System.EventHandler(this.btnR1C3_Click);
             // 
             // btnR2C1
             // 
@@ -75,6 +77,7 @@
             this.btnR2C1.TabIndex = 3;
             this.btnR2C1.Text = "TAC";
             this.btnR2C1.UseVisualStyleBackColor = true;
+            this.btnR2C1.Click += new System.EventHandler(this.btnR2C1_Click);
             // 
             // btnR3C1
             // 
@@ -93,6 +96,7 @@
             this.btnR2C2.TabIndex = 5;
             this.btnR2C2.Text = "NOUGHTS";
             this.btnR2C2.UseVisualStyleBackColor = true;
+            this.btnR2C2.Click += new System.EventHandler(this.btnR2C2_Click);
             // 
             // btnR2C3
             // 
