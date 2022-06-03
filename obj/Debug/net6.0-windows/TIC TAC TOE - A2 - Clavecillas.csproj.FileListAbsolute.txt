@@ -1,0 +1,17 @@
+C:\Users\Christian\Desktop\OOP\TIC TAC TOE - A2 - Clavecillas\bin\Debug\net6.0-windows\TIC TAC TOE - A2 - Clavecillas.exe
+C:\Users\Christian\Desktop\OOP\TIC TAC TOE - A2 - Clavecillas\bin\Debug\net6.0-windows\TIC TAC TOE - A2 - Clavecillas.deps.json
+C:\Users\Christian\Desktop\OOP\TIC TAC TOE - A2 - Clavecillas\bin\Debug\net6.0-windows\TIC TAC TOE - A2 - Clavecillas.runtimeconfig.json
+C:\Users\Christian\Desktop\OOP\TIC TAC TOE - A2 - Clavecillas\bin\Debug\net6.0-windows\TIC TAC TOE - A2 - Clavecillas.dll
+C:\Users\Christian\Desktop\OOP\TIC TAC TOE - A2 - Clavecillas\bin\Debug\net6.0-windows\TIC TAC TOE - A2 - Clavecillas.pdb
+C:\Users\Christian\Desktop\OOP\TIC TAC TOE - A2 - Clavecillas\obj\Debug\net6.0-windows\TIC TAC TOE - A2 - Clavecillas.csproj.AssemblyReference.cache
+C:\Users\Christian\Desktop\OOP\TIC TAC TOE - A2 - Clavecillas\obj\Debug\net6.0-windows\TIC_TAC_TOE___A2___Clavecillas.Form1.resources
+C:\Users\Christian\Desktop\OOP\TIC TAC TOE - A2 - Clavecillas\obj\Debug\net6.0-windows\TIC TAC TOE - A2 - Clavecillas.csproj.GenerateResource.cache
+C:\Users\Christian\Desktop\OOP\TIC TAC TOE - A2 - Clavecillas\obj\Debug\net6.0-windows\TIC TAC TOE - A2 - Clavecillas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian\Desktop\OOP\TIC TAC TOE - A2 - Clavecillas\obj\Debug\net6.0-windows\TIC TAC TOE - A2 - Clavecillas.AssemblyInfoInputs.cache
+C:\Users\Christian\Desktop\OOP\TIC TAC TOE - A2 - Clavecillas\obj\Debug\net6.0-windows\TIC TAC TOE - A2 - Clavecillas.AssemblyInfo.cs
+C:\Users\Christian\Desktop\OOP\TIC TAC TOE - A2 - Clavecillas\obj\Debug\net6.0-windows\TIC TAC TOE - A2 - Clavecillas.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\OOP\TIC TAC TOE - A2 - Clavecillas\obj\Debug\net6.0-windows\TIC TAC TOE - A2 - Clavecillas.dll
+C:\Users\Christian\Desktop\OOP\TIC TAC TOE - A2 - Clavecillas\obj\Debug\net6.0-windows\refint\TIC TAC TOE - A2 - Clavecillas.dll
+C:\Users\Christian\Desktop\OOP\TIC TAC TOE - A2 - Clavecillas\obj\Debug\net6.0-windows\TIC TAC TOE - A2 - Clavecillas.pdb
+C:\Users\Christian\Desktop\OOP\TIC TAC TOE - A2 - Clavecillas\obj\Debug\net6.0-windows\TIC TAC TOE - A2 - Clavecillas.genruntimeconfig.cache
+C:\Users\Christian\Desktop\OOP\TIC TAC TOE - A2 - Clavecillas\obj\Debug\net6.0-windows\ref\TIC TAC TOE - A2 - Clavecillas.dll
