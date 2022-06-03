@@ -31,6 +31,8 @@
             this.btnR1C1 = new System.Windows.Forms.Button();
             this.btnR1C2 = new System.Windows.Forms.Button();
             this.btnR1C3 = new System.Windows.Forms.Button();
+            this.btnR2C1 = new System.Windows.Forms.Button();
+            this.btnR3C1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnR1C1
@@ -60,11 +62,31 @@
             this.btnR1C3.Text = "TOE";
             this.btnR1C3.UseVisualStyleBackColor = true;
             // 
+            // btnR2C1
+            // 
+            this.btnR2C1.Location = new System.Drawing.Point(12, 93);
+            this.btnR2C1.Name = "btnR2C1";
+            this.btnR2C1.Size = new System.Drawing.Size(75, 75);
+            this.btnR2C1.TabIndex = 3;
+            this.btnR2C1.Text = "TAC";
+            this.btnR2C1.UseVisualStyleBackColor = true;
+            // 
+            // btnR3C1
+            // 
+            this.btnR3C1.Location = new System.Drawing.Point(12, 174);
+            this.btnR3C1.Name = "btnR3C1";
+            this.btnR3C1.Size = new System.Drawing.Size(75, 75);
+            this.btnR3C1.TabIndex = 4;
+            this.btnR3C1.Text = "TOE";
+            this.btnR3C1.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnR3C1);
+            this.Controls.Add(this.btnR2C1);
             this.Controls.Add(this.btnR1C3);
             this.Controls.Add(this.btnR1C2);
             this.Controls.Add(this.btnR1C1);
@@ -79,5 +101,7 @@
         private Button btnR1C1;
         private Button btnR1C2;
         private Button btnR1C3;
+        private Button btnR2C1;
+        private Button btnR3C1;
     }
 }
